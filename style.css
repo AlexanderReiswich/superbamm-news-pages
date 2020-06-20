@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    padding: 20px;
+    background: #68D4FF;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+    margin: auto;
+    background: #fff;
+    border-radius: 15px;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.banner {
+    display: block;
+    margin-bottom: 20px;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.button {
+    display: block;
+    background: #FF8201;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
